@@ -1,0 +1,4 @@
+I will append a string in this file.
+This file is to demonstrate append feature of python in file handlling. Successful append operationSuccessful append operation
+Successful append operation
+Successful append operation
